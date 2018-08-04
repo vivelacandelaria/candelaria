@@ -1,0 +1,7 @@
+{
+  "name": "vivecandelaria",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

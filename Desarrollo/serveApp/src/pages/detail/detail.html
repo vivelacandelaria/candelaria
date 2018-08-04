@@ -26,6 +26,10 @@
           <ion-label floating>Description</ion-label>
           <ion-texarea [(ngmodel)]="item.description"></ion-input>
         </ion-item>
+        <ion-list>
+          <div padding>
+            <button ion-button full (click)="addItem()">Guardar item</button>
+          </div>
       
       </ion-list>
       
